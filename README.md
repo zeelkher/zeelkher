@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/zeelkher](https://github.com/zeelkher)
 
-- 🔭 I create chrome extension that automatically pause YouTube video when switching between chrome tabs & windows. [FousePause](https://github.com/zeelkher/youtube-pause)
+- 🔭 I create chrome extension that automatically pause YouTube video when switching between chrome tabs & windows. [FocsePause](https://github.com/zeelkher/youtube-pause)
 
 - 📫 How to reach me **zeelkher4525@gmail.com**
 
