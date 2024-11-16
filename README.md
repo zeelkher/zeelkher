@@ -7,7 +7,7 @@
 
 - 🔭 I create chrome extension that automatically pause YouTube video when switching between chrome tabs & windows. [FocusPause](https://github.com/zeelkher/youtube-pause)
 
-- 📫 How to reach me **zeelkher4525@gmail.com**
+- 📫 How to reach me **zeelkher0407@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
