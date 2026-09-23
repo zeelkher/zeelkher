@@ -1,63 +1,331 @@
-<h1 align="center">Hi 👋, I'm Zeel Kher</h1>
+<div align="center">
 
-# 💫 About Me
- 
-I'm a passionate **Web Developer** focused on building clean, powerful, and scalable applications using **Python** and **Django**.
+<img src="https://capsule-render.vercel.app/api?type=waving&height=190&text=ZEEL%20KHER&fontAlign=50&fontAlignY=38&fontSize=52&fontColor=ffffff&desc=Software%20Developer%20%7C%20System%20Builder&descAlign=50&descAlignY=65&color=0:070b12,50:10192b,100:24134d&animation=fadeIn" width="100%" alt="Zeel Kher">
 
+<a href="https://readme-typing-svg.demolab.com/">
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&pause=1000&color=7C6BFF&center=true&vCenter=true&width=760&height=45&lines=Software+Developer;Full-Stack+Application+Builder;Python+%2F+Django+%2F+ASP.NET+Core;Android+%2F+Java+%2F+Firebase;Building+systems%2C+not+just+screens" alt="Typing animation">
+</a>
 
+<br>
 
-## 🚀 What I Do
-- Develop dynamic and scalable **web applications**.
-- Work with both **front-end** & **back-end** technologies.
-- Write **clean**, **maintainable**, and **optimized** code.
+<a href="https://github.com/zeelkher"><img src="https://img.shields.io/badge/GITHUB-0B0F17?style=for-the-badge&logo=github&logoColor=white"></a>
+<a href="https://zeelkher.github.io/Portfolio/"><img src="https://img.shields.io/badge/PORTFOLIO-0B0F17?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/ZeelKher"><img src="https://img.shields.io/badge/LINKEDIN-0B0F17?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
----
+</div>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+<table>
+<tr>
+<td width="62%" valign="top">
 
+WHOAMI
 
+Zeel Kher
 
-## 🎯 Currently Learning
-I'm improving and mastering **Django** to build more advanced, robust projects.
+ROLE      Software Developer
+FOCUS     Full-Stack Applications
+ALSO      Mobile • Tools • SaaS
+MODE      Build / Learn / Ship
 
----
+I enjoy turning ideas into complete, usable systems — connecting interface, application logic, authentication, data and real-world workflows.
 
-## 🌐 My Portfolio
-Check out my portfolio to see some of my work:  
-[Zeel's Portfolio](https://zeelkher.github.io/Portfolio/)
+</td>
+<td width="38%" valign="top">
 
----
+NOW
 
-## 👨‍💻 GitHub
-All of my projects are available here:  
-[GitHub - Zeel Kher](https://github.com/zeelkher)
+● BUILDING
+● LEARNING
+● EXPERIMENTING
+● REFACTORING
 
+WEB BACKEND MOBILE
 
+DATA TOOLS SAAS
 
-## 🔭 Featured Projects
-- **[FocusPause](https://chrome.google.com/webstore/detail/focuspause)**:  
-  A Chrome extension that automatically pauses YouTube videos when switching between Chrome tabs and windows to help you stay focused.
+</td>
+</tr>
+</table>
 
-- **[Doctor Patient Appointment Management System](https://github.com/zeelkher/DoctorPatientAppointmentBookingManagementSystem)**:  
-  A system to manage doctor appointments, patient records, and scheduling.
+TECH STACK
 
----
+<div align="center">
 
-## ✨ Let's Connect
-Feel free to reach out for collaborations, inquiries, or simply to connect!  
-📧 **Email**: [zeel.kher045@gmail.com]  
+<img src="https://skillicons.dev/icons?i=c,cpp,java,cs,python,php,js,html,css,django,dotnet,bootstrap,mysql,sqlite,mongodb,firebase,git,github,vscode,androidstudio,figma&perline=7" alt="Technology stack">
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/zeelkher) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/zeelkher_45) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ZeelKher) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:zeelkher0407@gmail.com) 
+</div>
 
----
+SYSTEM
 
-### ✍️ Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=AI%20is%20not%20a%20replacement%20for%20humans,%20it%E2%80%99s%20a%20tool%20to%20make%20your%20work%20smarter,%20faster,%20and%20better.&author=zeelkher)
+<div align="center">
 
+<img src="https://dummyimage.com/1x1/0b0f17/0b0f17.png" width="1" height="1" alt="">
 
+</div>
 
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/zeelkher) 
+┌────────────┐
+│    USER    │
+└─────┬──────┘
+      ↓
+┌────────────┐
+│    UI      │
+└─────┬──────┘
+      ↓
+┌────────────┐
+│ APPLICATION │
+└─────┬──────┘
+      ↓
+┌────────────┐
+│ DATA / AUTH│
+└─────┬──────┘
+      ↓
+┌────────────┐
+│  DATABASE  │
+└────────────┘
 
+MVC CRUD AUTH VALIDATION SESSIONS RELATIONSHIPS DASHBOARDS
+
+SELECTED BUILDS
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+📸 CaptureCrew
+
+Photography marketplace
+
+ASP.NET Core MVC EF Core SQLite
+
+Clients discover photographers, services and packages, then move through booking, payment and review workflows.
+
+</td>
+<td width="50%" valign="top">
+
+💎 IZEL
+
+Jewellery commerce + inventory
+
+Python Django
+
+A commerce-focused system connecting product presentation with inventory workflows.
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+⚡ HydroPulse
+
+Car-wash management / SaaS
+
+Python JavaScript
+
+A business workflow system focused on operational management.
+
+</td>
+<td width="50%" valign="top">
+
+💸 SplitWise
+
+Expense management
+
+Python Django JavaScript
+
+A shared-expense application for tracking costs, participants and balances.
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+◈ GetQR
+
+QR platform
+
+Python Django
+
+QR generation and utility workflows.
+
+</td>
+<td width="50%" valign="top">
+
+💬 Core
+
+Real-time chat
+
+Python Django
+
+A communication-focused application experiment.
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+⏸ FocusPause
+
+Browser productivity extension
+
+JavaScript
+
+Pauses YouTube when the active browsing context changes.
+
+</td>
+<td width="50%" valign="top">
+
+📰 NewsOrbit
+
+Android news application
+
+Android Java Firebase SQLite
+
+Authentication, news, categories, bookmarks, reading history and local persistence.
+
+PREPARING FOR GITHUB
+
+</td>
+</tr>
+</table>
+
+<details>
+<summary><strong>View the rest of the project lab</strong></summary>
+
+Doctor Appointment Management System — PHP / MySQL
+OnlineBankSystem — Java / OOP
+ParkingManagement — Python / HTML / CSS / JavaScript
+WifiQR — HTML / CSS / JavaScript
+Portfolio — HTML / CSS / JavaScript
+
+</details>
+
+DEVELOPER METRICS
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zeelkher&theme=github_dark" width="100%" alt="GitHub profile details">
+
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td>
+<img src="https://github-readme-stats.vercel.app/api?username=zeelkher&show_icons=true&theme=transparent&hide_border=true&count_private=true&include_all_commits=true" height="170" alt="GitHub stats">
+</td>
+<td>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeelkher&layout=compact&theme=transparent&hide_border=true&count_private=true" height="170" alt="Top languages">
+</td>
+</tr>
+</table>
+
+<img src="https://streak-stats.demolab.com?user=zeelkher&theme=transparent&hide_border=true" alt="GitHub streak">
+
+</div>
+
+CONTRIBUTION FIELD
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=zeelkher&bg_color=0b0f17&color=ffffff&line=7c6bff&point=ffffff&area=true&hide_border=true" width="96%" alt="GitHub activity graph">
+
+<br>
+
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zeelkher/zeelkher/output/github-snake-dark.svg">
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zeelkher/zeelkher/output/github-snake.svg">
+<img src="https://raw.githubusercontent.com/zeelkher/zeelkher/output/github-snake.svg" width="96%" alt="Contribution snake">
+</picture>
+
+</div>
+
+BEYOND CODE
+
+<table>
+<tr>
+<td>
+
+🎮 Gaming
+Reboot reality.
+
+</td>
+<td>
+
+🎧 Music
+Better code.
+
+</td>
+<td>
+
+📷 Photography
+Capture moments.
+
+</td>
+<td>
+
+📚 Learning
+Always in progress.
+
+</td>
+</tr>
+</table>
+
+BUILD PHILOSOPHY
+
+<div align="center">
+
+BUILD  → make it work
+BREAK  → learn why it fails
+DEBUG  → understand the cause
+REFINE → improve the system
+SHIP   → make it useful
+
+Curiosity gets the prototype started.
+Debugging gets it finished.
+
+</div>
+
+LET'S CONNECT
+
+<div align="center">
+
+<a href="https://github.com/zeelkher">
+<img src="https://img.shields.io/badge/◉%20GITHUB-0B0F17?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</a>
+
+<a href="https://zeelkher.github.io/Portfolio/">
+<img src="https://img.shields.io/badge/◉%20PORTFOLIO-0B0F17?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio">
+</a>
+
+<a href="https://www.linkedin.com/in/ZeelKher">
+<img src="https://img.shields.io/badge/◉%20LINKEDIN-0B0F17?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+
+<a href="mailto:zeel.kher045@gmail.com">
+<img src="https://img.shields.io/badge/◉%20EMAIL-0B0F17?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+</a>
+
+<br><br>
+
+<a href="https://buymeacoffee.com/zeelkher">
+<img src="https://img.shields.io/badge/☕%20SUPPORT%20THE%20LAB-17111F?style=for-the-badge&labelColor=17111F" alt="Support the lab">
+</a>
+
+</div>
+
+<div align="center">
+
+ZEEL.KHER
+software / systems / experiments
+
+Made with ♥ by Zeel Kher
+
+</div>
