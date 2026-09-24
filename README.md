@@ -22,10 +22,10 @@ WHOAMI
 
 Zeel Kher
 
-ROLE      Software Developer
-FOCUS     Full-Stack Applications
-ALSO      Mobile • Tools • SaaS
-MODE      Build / Learn / Ship
+ROLE     - Software Developer<br>
+FOCUS     - Full-Stack Applications<br>
+ALSO     - Mobile • Tools • SaaS<br>
+MODE     - Build / Learn / Ship<br>
 
 I enjoy turning ideas into complete, usable systems — connecting interface, application logic, authentication, data and real-world workflows.
 
@@ -35,9 +35,13 @@ I enjoy turning ideas into complete, usable systems — connecting interface, ap
 NOW
 
 ● BUILDING
+<br>
 ● LEARNING
+<br>
 ● EXPERIMENTING
+<br>
 ● REFACTORING
+<br>
 
 WEB BACKEND MOBILE
 
@@ -72,7 +76,7 @@ SYSTEM
 └─────┬──────┘
       ↓
 ┌────────────┐
-│ APPLICATION │
+│ APPLICATION│
 └─────┬──────┘
       ↓
 ┌────────────┐
@@ -194,11 +198,11 @@ PREPARING FOR GITHUB
 <details>
 <summary><strong>View the rest of the project lab</strong></summary>
 
-Doctor Appointment Management System — PHP / MySQL
-OnlineBankSystem — Java / OOP
-ParkingManagement — Python / HTML / CSS / JavaScript
-WifiQR — HTML / CSS / JavaScript
-Portfolio — HTML / CSS / JavaScript
+Doctor Appointment Management System — PHP / MySQL<br>
+OnlineBankSystem — Java / OOP<br>
+ParkingManagement — Python / HTML / CSS / JavaScript<br>
+WifiQR — HTML / CSS / JavaScript<br>
+Portfolio — HTML / CSS / JavaScript<br>
 
 </details>
 
@@ -216,34 +220,7 @@ DEVELOPER METRICS
 </tr>
 </table>
 
-<table>
-<tr>
-<td>
-<img src="https://github-readme-stats.vercel.app/api?username=zeelkher&show_icons=true&theme=transparent&hide_border=true&count_private=true&include_all_commits=true" height="170" alt="GitHub stats">
-</td>
-<td>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeelkher&layout=compact&theme=transparent&hide_border=true&count_private=true" height="170" alt="Top languages">
-</td>
-</tr>
-</table>
-
 <img src="https://streak-stats.demolab.com?user=zeelkher&theme=transparent&hide_border=true" alt="GitHub streak">
-
-</div>
-
-CONTRIBUTION FIELD
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=zeelkher&bg_color=0b0f17&color=ffffff&line=7c6bff&point=ffffff&area=true&hide_border=true" width="96%" alt="GitHub activity graph">
-
-<br>
-
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zeelkher/zeelkher/output/github-snake-dark.svg">
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zeelkher/zeelkher/output/github-snake.svg">
-<img src="https://raw.githubusercontent.com/zeelkher/zeelkher/output/github-snake.svg" width="96%" alt="Contribution snake">
-</picture>
 
 </div>
 
@@ -282,11 +259,11 @@ BUILD PHILOSOPHY
 
 <div align="center">
 
-BUILD  → make it work
-BREAK  → learn why it fails
-DEBUG  → understand the cause
-REFINE → improve the system
-SHIP   → make it useful
+BUILD  → make it work<br>
+BREAK  → learn why it fails<br>
+DEBUG  → understand the cause<br>
+REFINE → improve the system<br>
+SHIP   → make it useful<br>
 
 Curiosity gets the prototype started.
 Debugging gets it finished.
