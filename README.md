@@ -1,308 +1,337 @@
+ <div align="center">
+
+# Z
+
+<sub>CLASSIFIED // DEVELOPER DOSSIER // LEVEL 01</sub>
+
+# ZEEL KHER
+
+**SOFTWARE ENGINEERING · SYSTEMS · EXPERIMENTS**
+
+<sub>INDEPENDENT MIND. CALCULATED EXECUTION. CONTINUOUS ITERATIONS.</sub>
+
+<br/>
+
+![Classification](https://img.shields.io/badge/CLASSIFICATION-PRIVATE%20DOSSIER-B5121B?style=flat-square&labelColor=0A0B0D)
+![Status](https://img.shields.io/badge/STATUS-ACTIVE-777777?style=flat-square&labelColor=0A0B0D)
+![Mode](https://img.shields.io/badge/MODE-ENGINEERING-B5121B?style=flat-square&labelColor=0A0B0D)
+
+<br/>
+
+`FILE 001` &nbsp; // &nbsp; `OPERATION: BUILD` &nbsp; // &nbsp; `SUBJECT: ZEEL.KHER`
+
+</div>
+
+---
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=190&text=ZEEL%20KHER&fontAlign=50&fontAlignY=38&fontSize=52&fontColor=ffffff&desc=Software%20Developer%20%7C%20System%20Builder&descAlign=50&descAlignY=65&color=0:070b12,50:10192b,100:24134d&animation=fadeIn" width="100%" alt="Zeel Kher">
+<sub>00 / EXECUTIVE BRIEF</sub>
 
-<a href="https://readme-typing-svg.demolab.com/">
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&pause=1000&color=7C6BFF&center=true&vCenter=true&width=760&height=45&lines=Software+Developer;Full-Stack+Application+Builder;Python+%2F+Django+%2F+ASP.NET+Core;Android+%2F+Java+%2F+Firebase;Building+systems%2C+not+just+screens" alt="Typing animation">
-</a>
+## THE MISSION
 
-<br>
+</div>
 
-<a href="https://github.com/zeelkher"><img src="https://img.shields.io/badge/GITHUB-0B0F17?style=for-the-badge&logo=github&logoColor=white"></a>
-<a href="https://zeelkher.github.io/Portfolio/"><img src="https://img.shields.io/badge/PORTFOLIO-0B0F17?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/ZeelKher"><img src="https://img.shields.io/badge/LINKEDIN-0B0F17?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+I build software to turn ideas into practical systems.
+
+My approach to development is built around curiosity, investigation, and continuous improvement. I want to understand not only how something works, but why it works, where it can fail, and how it can be made better.
+
+I enjoy developing applications, working with databases, exploring backend systems, and experimenting with tools that make software development more effective.
+
+**The objective is not simply to make it work. The objective is to understand it, improve it, and make it useful.**
+
+---
+
+<div align="center">
+
+<sub>01 / OPERATING PRINCIPLE</sub>
+
+## THE DEVELOPER'S CUT
+
+<sub>EVERY PROJECT HAS A STORY. EVERY BUG HAS A REASON.</sub>
 
 </div>
 
 <table>
 <tr>
-<td width="62%" valign="top">
-
-WHOAMI
-
-Zeel Kher
-
-ROLE     - Software Developer<br>
-FOCUS     - Full-Stack Applications<br>
-ALSO     - Mobile • Tools • SaaS<br>
-MODE     - Build / Learn / Ship<br>
-
-I enjoy turning ideas into complete, usable systems — connecting interface, application logic, authentication, data and real-world workflows.
-
-</td>
-<td width="38%" valign="top">
-
-NOW
-
-● BUILDING
-<br>
-● LEARNING
-<br>
-● EXPERIMENTING
-<br>
-● REFACTORING
-<br>
-
-WEB BACKEND MOBILE
-
-DATA TOOLS SAAS
-
-</td>
+<td align="center" width="60"><b>01</b></td>
+<td width="100"><b>BUILD</b></td>
+<td>Turn an idea into a working system.</td>
+</tr>
+<tr>
+<td align="center"><b>02</b></td>
+<td><b>BREAK</b></td>
+<td>Challenge assumptions. Discover limitations.</td>
+</tr>
+<tr>
+<td align="center"><b>03</b></td>
+<td><b>DEBUG</b></td>
+<td>Investigate the cause. Never rely on guesswork.</td>
+</tr>
+<tr>
+<td align="center"><b>04</b></td>
+<td><b>REFINE</b></td>
+<td>Improve logic, structure, and reliability.</td>
+</tr>
+<tr>
+<td align="center"><b>05</b></td>
+<td><b>SHIP</b></td>
+<td>Deliver something that solves a real problem.</td>
 </tr>
 </table>
 
-TECH STACK
-
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=c,cpp,java,cs,python,php,js,html,css,django,dotnet,bootstrap,mysql,sqlite,mongodb,firebase,git,github,vscode,androidstudio,figma&perline=7" alt="Technology stack">
+<br/>
+
+### Curiosity starts the prototype.
+
+### Debugging gets it finished.
+
+<br/>
+
+`NO NOISE. NO SHORTCUTS. JUST THE WORK.`
 
 </div>
 
-SYSTEM
+---
 
 <div align="center">
 
-<img src="https://dummyimage.com/1x1/0b0f17/0b0f17.png" width="1" height="1" alt="">
+<sub>02 / TECHNICAL ARSENAL</sub>
+
+## TOOLS OF THE TRADE
+
+<sub>LEARN THE TOOL. UNDERSTAND THE SYSTEM. SOLVE THE PROBLEM.</sub>
 
 </div>
 
-┌────────────┐
-│    USER    │
-└─────┬──────┘
-      ↓
-┌────────────┐
-│    UI      │
-└─────┬──────┘
-      ↓
-┌────────────┐
-│ APPLICATION│
-└─────┬──────┘
-      ↓
-┌────────────┐
-│ DATA / AUTH│
-└─────┬──────┘
-      ↓
-┌────────────┐
-│  DATABASE  │
-└────────────┘
+### WEB DEVELOPMENT
 
-MVC CRUD AUTH VALIDATION SESSIONS RELATIONSHIPS DASHBOARDS
+![HTML5](https://img.shields.io/badge/HTML5-171717?style=for-the-badge&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-171717?style=for-the-badge&logo=css3&logoColor=1572B6)
+![JavaScript](https://img.shields.io/badge/JavaScript-171717?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-171717?style=for-the-badge&logo=bootstrap&logoColor=7952B3)
 
-SELECTED BUILDS
+### BACKEND DEVELOPMENT
+
+![PHP](https://img.shields.io/badge/PHP-171717?style=for-the-badge&logo=php&logoColor=777BB4)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-171717?style=for-the-badge&logo=dotnet&logoColor=512BD4)
+![Python](https://img.shields.io/badge/Python-171717?style=for-the-badge&logo=python&logoColor=3776AB)
+![Django](https://img.shields.io/badge/Django-171717?style=for-the-badge&logo=django&logoColor=44B78B)
+
+### DATABASE SYSTEMS
+
+![MySQL](https://img.shields.io/badge/MySQL-171717?style=for-the-badge&logo=mysql&logoColor=4479A1)
+![SQLite](https://img.shields.io/badge/SQLite-171717?style=for-the-badge&logo=sqlite&logoColor=003B57)
+![MongoDB](https://img.shields.io/badge/MongoDB-171717?style=for-the-badge&logo=mongodb&logoColor=47A248)
+
+<div align="center">
+
+<sub>TECHNOLOGY IS THE TOOL. PROBLEM-SOLVING IS THE OBJECTIVE.</sub>
+
+</div>
+
+---
+
+<div align="center">
+
+<sub>03 / FIELD OF OPERATIONS</sub>
+
+## AREAS OF INTEREST
+
+</div>
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-📸 CaptureCrew
+### 01 — APPLICATION ENGINEERING
 
-Photography marketplace
-
-ASP.NET Core MVC EF Core SQLite
-
-Clients discover photographers, services and packages, then move through booking, payment and review workflows.
+Building practical applications with clear logic, useful features, and maintainable code.
 
 </td>
 <td width="50%" valign="top">
 
-💎 IZEL
+### 02 — SYSTEMS & DATABASES
 
-Jewellery commerce + inventory
-
-Python Django
-
-A commerce-focused system connecting product presentation with inventory workflows.
+Understanding data models, backend architecture, and communication between software components.
 
 </td>
 </tr>
-
 <tr>
 <td width="50%" valign="top">
 
-⚡ HydroPulse
+### 03 — DEBUGGING & REFINEMENT
 
-Car-wash management / SaaS
-
-Python JavaScript
-
-A business workflow system focused on operational management.
+Finding root causes, investigating unexpected behavior, and improving reliability.
 
 </td>
 <td width="50%" valign="top">
 
-💸 SplitWise
+### 04 — AUTOMATION & EXPERIMENTS
 
-Expense management
-
-Python Django JavaScript
-
-A shared-expense application for tracking costs, participants and balances.
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-◈ GetQR
-
-QR platform
-
-Python Django
-
-QR generation and utility workflows.
-
-</td>
-<td width="50%" valign="top">
-
-💬 Core
-
-Real-time chat
-
-Python Django
-
-A communication-focused application experiment.
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-⏸ FocusPause
-
-Browser productivity extension
-
-JavaScript
-
-Pauses YouTube when the active browsing context changes.
-
-</td>
-<td width="50%" valign="top">
-
-📰 NewsOrbit
-
-Android news application
-
-Android Java Firebase SQLite
-
-Authentication, news, categories, bookmarks, reading history and local persistence.
-
-PREPARING FOR GITHUB
+Exploring tools and workflows that reduce repetitive work and improve efficiency.
 
 </td>
 </tr>
 </table>
 
-<details>
-<summary><strong>View the rest of the project lab</strong></summary>
-
-Doctor Appointment Management System — PHP / MySQL<br>
-OnlineBankSystem — Java / OOP<br>
-ParkingManagement — Python / HTML / CSS / JavaScript<br>
-WifiQR — HTML / CSS / JavaScript<br>
-Portfolio — HTML / CSS / JavaScript<br>
-
-</details>
-
-DEVELOPER METRICS
+---
 
 <div align="center">
+
+<sub>04 / OPERATIONAL PROTOCOL</sub>
+
+## NO GUESSWORK. JUST INVESTIGATION.
+
+<sub>EVERY PROBLEM HAS A CAUSE. FIND IT BEFORE YOU FIX IT.</sub>
+
+</div>
+
+| PHASE | PROCEDURE | OBJECTIVE |
+|:---:|:---|:---|
+| 01 | OBSERVE | Understand the situation. |
+| 02 | ANALYZE | Identify the actual problem. |
+| 03 | PLAN | Choose a practical solution. |
+| 04 | IMPLEMENT | Build with intention. |
+| 05 | VALIDATE | Test assumptions and expected behavior. |
+| 06 | IMPROVE | Refine what can be better. |
+| 07 | DELIVER | Make the result useful. |
+
+---
+
+<div align="center">
+
+<sub>05 / PROJECT RECORDS</sub>
+
+## THE WORK SPEAKS
+
+<sub>IDEAS BECOME APPLICATIONS. APPLICATIONS BECOME EXPERIENCE.</sub>
+
+</div>
 
 <table>
 <tr>
-<td align="center">
+<td width="50%" valign="top">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zeelkher&theme=github_dark" width="100%" alt="GitHub profile details">
+### CAPTURECREW
+
+**Photography Booking Platform**
+
+An application concept connecting clients with photographers through service listings and booking workflows.
+
+`ASP.NET CORE` `C#` `SQLITE`
+
+</td>
+<td width="50%" valign="top">
+
+### DOCTOR APPOINTMENT MANAGEMENT
+
+**Appointment Management System**
+
+A web application project focused on managing doctor information and appointment-related workflows.
+
+`PHP` `MYSQL`
 
 </td>
 </tr>
-</table>
-
-<img src="https://streak-stats.demolab.com?user=zeelkher&theme=transparent&hide_border=true" alt="GitHub streak">
-
-</div>
-
-BEYOND CODE
-
-<table>
 <tr>
-<td>
+<td width="50%" valign="top">
 
-🎮 Gaming
-Reboot reality.
+### QR CODE GENERATOR
 
-</td>
-<td>
+**QR Generation Web Application**
 
-🎧 Music
-Better code.
+A project exploring QR code generation and downloadable output through a web interface.
 
-</td>
-<td>
-
-📷 Photography
-Capture moments.
+`PYTHON` `DJANGO`
 
 </td>
-<td>
+<td width="50%" valign="top">
 
-📚 Learning
-Always in progress.
+### EXPERIMENTAL BUILDS
+
+**Learning Through Implementation**
+
+Small experiments, technical explorations, and practical projects that strengthen development and problem-solving skills.
+
+`CODE` `TEST` `REFINE`
 
 </td>
 </tr>
 </table>
 
-BUILD PHILOSOPHY
-
 <div align="center">
 
-BUILD  → make it work<br>
-BREAK  → learn why it fails<br>
-DEBUG  → understand the cause<br>
-REFINE → improve the system<br>
-SHIP   → make it useful<br>
-
-Curiosity gets the prototype started.
-Debugging gets it finished.
+<sub>PROJECT DESCRIPTIONS REPRESENT PROJECT GOALS, NOT VERIFIED DEPLOYMENT STATUS.</sub>
 
 </div>
 
-LET'S CONNECT
+---
 
 <div align="center">
 
-<a href="https://github.com/zeelkher">
-<img src="https://img.shields.io/badge/◉%20GITHUB-0B0F17?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-</a>
+<sub>06 / DEVELOPMENT PHILOSOPHY</sub>
 
-<a href="https://zeelkher.github.io/Portfolio/">
-<img src="https://img.shields.io/badge/◉%20PORTFOLIO-0B0F17?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio">
-</a>
-
-<a href="https://www.linkedin.com/in/ZeelKher">
-<img src="https://img.shields.io/badge/◉%20LINKEDIN-0B0F17?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
-
-<a href="mailto:zeel.kher045@gmail.com">
-<img src="https://img.shields.io/badge/◉%20EMAIL-0B0F17?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-</a>
-
-<br><br>
-
-<a href="https://buymeacoffee.com/zeelkher">
-<img src="https://img.shields.io/badge/☕%20SUPPORT%20THE%20LAB-17111F?style=for-the-badge&labelColor=17111F" alt="Support the lab">
-</a>
+## THE MINDSET
 
 </div>
 
+- **Curiosity over assumptions** — investigate before deciding.
+- **Understanding over memorization** — learn why the solution works.
+- **Consistency over shortcuts** — improve through repeated practice.
+- **Clarity over unnecessary complexity** — keep solutions understandable.
+- **Progress over perfection** — build, learn, and iterate.
+
+<pre>
+THINK      → explore the possibilities
+BUILD      → turn ideas into working software
+TEST       → challenge every assumption
+DEBUG      → understand the actual problem
+REFINE     → improve the solution
+SHIP       → deliver something useful
+</pre>
+
+---
+
 <div align="center">
 
-ZEEL.KHER
-software / systems / experiments
+<sub>07 / COMMUNICATION CHANNELS</sub>
 
-Made with ♥ by Zeel Kher
+## LET'S CONNECT
+
+<sub>OPEN TO IDEAS, COLLABORATION, AND INTERESTING BUILDS.</sub>
+
+<br/>
+
+[![GitHub](https://img.shields.io/badge/GITHUB-171717?style=for-the-badge&logo=github&logoColor=FFFFFF)](https://github.com/zeelkher)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-B5121B?style=for-the-badge&logo=googlechrome&logoColor=FFFFFF)](https://zeelkher.github.io/Portfolio/)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-171717?style=for-the-badge&logo=linkedin&logoColor=FFFFFF)](https://www.linkedin.com/in/ZeelKher)
+[![Email](https://img.shields.io/badge/EMAIL-171717?style=for-the-badge&logo=gmail&logoColor=FFFFFF)](mailto:zeel.kher045@gmail.com)
+
+<br/><br/>
+
+[![Support the Lab](https://img.shields.io/badge/SUPPORT_THE_LAB-252525?style=for-the-badge&logo=buymeacoffee&logoColor=FFFFFF)](https://buymeacoffee.com/zeelkher)
+
+</div>
+
+---
+
+<div align="center">
+
+# Z
+
+**ZEEL.KHER**
+
+<sub>SOFTWARE / SYSTEMS / EXPERIMENTS</sub>
+
+<br/>
+
+<sub>INDEPENDENT MIND. CONTINUOUS ITERATIONS.</sub>
+
+<br/><br/>
+
+<sub>END OF FILE // MADE WITH ♥ BY ZEEL KHER</sub>
 
 </div>
