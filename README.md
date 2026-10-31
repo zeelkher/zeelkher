@@ -1,75 +1,47 @@
- <div align="center">
-
-# <font color="#E50914">Z</font>
-
-<sub>DEVELOPER / EXPERIMENTER</sub>
-
-<sub>PROBLEM SOLVER</sub>
-
-# ZEEL KHER
-
-**SOFTWARE · SYSTEMS · EXPERIMENTS**
-
-<sub>INDEPENDENT MIND. CONTINUOUS ITERATIONS.</sub>
-
-</div>
-
----
+<!-- Zeel Kher — GitHub profile README · dark theme (#0D0D0D / #00D1B2) -->
 
 <div align="center">
-
-<sub>01 / ABOUT ME</sub>
-
-## BUILDING IDEAS INTO REALITY.
-
+  <img src="assets/banner.svg" width="100%" alt="ZEEL KHER — SOFTWARE · SYSTEMS · EXPERIMENTS">
 </div>
 
-I'm an Information Technology student at Uka Tarsadia University interested in software development, backend engineering, databases, and building practical applications.
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=00D1B2&center=true&vCenter=true&width=620&height=40&lines=Developer+%2F+Experimenter;Problem+Solver;Building+ideas+into+reality" alt="Developer / Experimenter · Problem Solver · Building ideas into reality"></a>
+</p>
 
-I enjoy learning by building projects, experimenting with technologies, and understanding how things work beneath the surface.
+<img src="assets/section-01-about.svg" width="100%" alt="// 01 ABOUT ME">
 
----
+<p align="center">
+  <b>Building ideas into reality.</b><br>
+  Information Technology student at Uka Tarsadia University, interested in software development,<br>
+  backend engineering, databases, and building practical applications.<br>
+  I learn by building projects, experimenting with technologies, and understanding how things work beneath the surface.
+</p>
 
-<div align="center">
+<p align="center">
+  <img src="assets/tags-about.svg" alt="BUILD • LEARN • ITERATE • SHIP">
+</p>
 
-<sub>02 / TECHNOLOGY</sub>
+<img src="assets/section-02-tech-stack.svg" width="100%" alt="// 02 TECH STACK">
 
-## MY TECH STACK
+<p align="center"><sub><b>FRONTEND</b></sub></p>
+<p align="center">
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,js,bootstrap&theme=dark&perline=8" alt="HTML5, CSS3, JavaScript, Bootstrap"></a>
+</p>
 
-</div>
+<p align="center"><sub><b>BACKEND</b></sub></p>
+<p align="center">
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=php,python,django,dotnet,cs,java&theme=dark&perline=8" alt="PHP, Python, Django, ASP.NET Core, C#, Java"></a>
+</p>
 
-**Frontend**
+<p align="center"><sub><b>DATABASES & TOOLS</b></sub></p>
+<p align="center">
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb,git,github&theme=dark&perline=8" alt="MySQL, SQLite, MongoDB, Git, GitHub"></a>
+</p>
 
-![HTML5](https://img.shields.io/badge/HTML5-111111?style=flat-square&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-111111?style=flat-square&logo=css3&logoColor=1572B6)
-![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=flat-square&logo=javascript&logoColor=F7DF1E)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-111111?style=flat-square&logo=bootstrap&logoColor=7952B3)
+<img src="assets/section-03-projects.svg" width="100%" alt="// 03 SELECTED PROJECTS">
 
-**Backend**
-
-![PHP](https://img.shields.io/badge/PHP-111111?style=flat-square&logo=php&logoColor=777BB4)
-![Python](https://img.shields.io/badge/Python-111111?style=flat-square&logo=python&logoColor=3776AB)
-![Django](https://img.shields.io/badge/Django-111111?style=flat-square&logo=django&logoColor=44B78B)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-111111?style=flat-square&logo=dotnet&logoColor=512BD4)
-
-**Databases**
-
-![MySQL](https://img.shields.io/badge/MySQL-111111?style=flat-square&logo=mysql&logoColor=4479A1)
-![SQLite](https://img.shields.io/badge/SQLite-111111?style=flat-square&logo=sqlite&logoColor=003B57)
-![MongoDB](https://img.shields.io/badge/MongoDB-111111?style=flat-square&logo=mongodb&logoColor=47A248)
-
----
-
-<div align="center">
-
-<sub>03 / SELECTED PROJECTS</sub>
-
-## THINGS I'VE BUILT
-
-</div>
-
-| PROJECT | DESCRIPTION | TECHNOLOGY |
-|:---|:---|:---|
+| Project | Description | Technology |
+|---|---|---|
 | **CaptureCrew** | Photography booking marketplace | ASP.NET Core, C#, SQLite |
 | **Doctor Appointment Management** | Doctor and appointment management system | PHP, MySQL |
 | **QryInk** | QR code generation web project | Python, Django |
@@ -77,41 +49,39 @@ I enjoy learning by building projects, experimenting with technologies, and unde
 | **FocusPause** | YouTube auto-pause Chrome extension | JavaScript |
 | **OnlineBankSystem** | Console-based banking system | Java |
 
----
+<img src="assets/section-04-github-stats.svg" width="100%" alt="// 04 GITHUB ACTIVITY">
+
+<p align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00D1B2&text_color=FFFFFF&icon_color=00D1B2&ring_color=00D1B2" alt="GitHub stats">
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&bg_color=0D1117&title_color=00D1B2&text_color=FFFFFF&langs_count=8" alt="Top languages">
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=YOUR_GITHUB_USERNAME&hide_border=true&background=0D1117&ring=00D1B2&fire=00D1B2&currStreakLabel=00D1B2&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF&dates=9AA0A6&stroke=2A2A2A" alt="GitHub streak">
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/snake.svg" width="100%" alt="Contribution snake">
+</p>
+
+<img src="assets/section-05-connect.svg" width="100%" alt="// 05 LET'S CONNECT">
+
+<p align="center">
+  <a href="https://github.com/YOUR_GITHUB_USERNAME"><img src="https://img.shields.io/badge/GITHUB-Profile-00D1B2?style=for-the-badge&logo=github&logoColor=00D1B2&labelColor=0D1117" alt="GitHub"></a>
+  &nbsp;
+  <a href="YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/PORTFOLIO-Visit-00D1B2?style=for-the-badge&labelColor=0D1117" alt="Portfolio"></a>
+  &nbsp;
+  <a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LINKEDIN-Connect-00D1B2?style=for-the-badge&logo=linkedin&logoColor=00D1B2&labelColor=0D1117" alt="LinkedIn"></a>
+  &nbsp;
+  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/EMAIL-Contact-00D1B2?style=for-the-badge&logo=gmail&logoColor=00D1B2&labelColor=0D1117" alt="Email"></a>
+</p>
+
+<p align="center">
+  <a href="YOUR_SUPPORT_LINK"><img src="https://img.shields.io/badge/SUPPORT%20THE%20LAB-Donate-00D1B2?style=for-the-badge&labelColor=0D1117" alt="Support the Lab"></a>
+</p>
 
 <div align="center">
-
-<sub>04 / GITHUB</sub>
-
-## MY ACTIVITY
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zeelkher&show_icons=true&hide_border=true&bg_color=0D1117&title_color=E50914&icon_color=E50914&text_color=FFFFFF)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zeelkher&layout=compact&hide_border=true&bg_color=0D1117&title_color=E50914&text_color=FFFFFF)
-
+  <img src="assets/footer.svg" width="100%" alt="BUILD · LEARN · DEBUG · REPEAT">
 </div>
 
----
-
-<div align="center">
-
-<sub>05 / CONTACT</sub>
-
-## LET'S CONNECT
-
-[![GitHub](https://img.shields.io/badge/GITHUB-171717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zeelkher)
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-B5121B?style=for-the-badge&logo=googlechrome&logoColor=white)](https://zeelkher.github.io/Portfolio/)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-171717?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ZeelKher)
-[![Email](https://img.shields.io/badge/EMAIL-171717?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zeel.kher045@gmail.com)
-
-<br/>
-
-[![Support the Lab](https://img.shields.io/badge/SUPPORT_THE_LAB-252525?style=for-the-badge)](https://buymeacoffee.com/zeelkher)
-
-<br/>
-
-**ZEEL.KHER**
-
-<sub>BUILD · LEARN · DEBUG · REPEAT</sub>
-
-</div>
+<p align="center"><b>INDEPENDENT MIND. CONTINUOUS ITERATIONS.</b></p>
